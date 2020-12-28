@@ -1,0 +1,22 @@
+{
+  "name": "test_proyect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download-pdf": "^0.1.6",
+    "mongoose": "^5.11.8",
+    "node-cron": "^2.0.3",
+    "pdf2table": "0.0.2",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
